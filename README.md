@@ -13,9 +13,6 @@ COME ESEGUIRE ???
 
 
 
-[ N.B. --> Concedere i privilegi da amministratore altrimenti verrà inibita l'esecuzione dello Script shell per il test !!! ]
-
-
 
 1)	Nella cartella "src" è possibile: compilare, eseguire e testare il codice. 
 	Navigando da terminale in una delle tre cartelle (CUDA, OpenMP+MPI, Sequenziale) è presente un MakeFile. 
@@ -35,4 +32,4 @@ COME ESEGUIRE ???
 
 
 
-
+	N.B. --> Concedere i privilegi da amministratore altrimenti verrà inibita l'esecuzione dello Script shell per il test !!!
